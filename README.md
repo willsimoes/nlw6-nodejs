@@ -1,5 +1,5 @@
 ## API Valoriza
-Aplicação para cadastro e usuários, tags e elogios utilizando Node.JS, Typescript e alguns frameworks e bibliotecas como express (web), typeorm (mapeamento banco de dados) e JWT (autenticação com Web Tokens). 
+Aplicação para cadastro de usuários, tags e elogios utilizando Node.JS, Typescript e alguns frameworks e bibliotecas como express (web), typeorm (mapeamento banco de dados) e JWT (autenticação com Web Tokens). 
 
 ## Regras
 
