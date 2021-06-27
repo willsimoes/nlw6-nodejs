@@ -7,7 +7,7 @@ import { NextFunction, Request, Response } from "express";
  * @param nextFunction próxima função a ser delegada execução
  */
 export function ensureAdmin(request: Request, response: Response, nextFunction: NextFunction) {
-    const admin = false;
+    const admin = true;
 
     if (admin) {
         return nextFunction();
