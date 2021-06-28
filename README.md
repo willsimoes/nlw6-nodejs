@@ -19,3 +19,11 @@ Aplicação para cadastro de usuários, tags e elogios utilizando Node.JS, Types
     - Não é permitido um usuário cadastrar um elogio para si
     - Não é permitido cadastrar elogios para usuários inválidos
     - O usuário precisa estar autenticado na aplicação
+
+&nbsp;
+- Extras:
+    - Serviço de e-mail que notifica que o usuário recebeu um elogio
+    - Serviços para colocar em produção (heroku)
+    - Front end com a biblioteca cors + @types/cors -D
+    - Classe handler para capturar erros e uma exceção customizável
+    - Sentry para monitorar os erros da aplicação
